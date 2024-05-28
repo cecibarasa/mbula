@@ -118,7 +118,7 @@ body {
 
 .six img {
   display: inline-block;
-  max-width: 100%;
+  max-width: 90%;
   height: auto;
 }
 
@@ -281,7 +281,7 @@ body {
 
   .six .hat {
     width: 50px;
-    top: -20px;
+    top: -50px;
   }
 
   .wish-hbd {
@@ -297,3 +297,7 @@ body {
     font-weight: lighter;
   }
 }
+
+/* audio{
+  display: none;
+} */
