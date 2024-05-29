@@ -301,3 +301,11 @@ body {
 /* audio{
   display: none;
 } */
+
+/* .btn {
+  background-color: #aaa;
+} */
+audio::-webkit-media-controls-panel{
+  content: "Play me!";
+  background-color: #aeabb1;
+}
